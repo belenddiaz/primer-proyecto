@@ -1,4 +1,4 @@
- 
+p
 <html>
 <head>
     <link href="css/style.css " rel="stylesheet" type="text/css" />
@@ -13,7 +13,7 @@
             Titulo Principal
         </h1>
         <p>
-            Párrafo
+            akdbfajdbadbchbdjxbchaydsbchjbdbchszdhbckjbds chsbdhcbsdkjbc
         </p>
         <ul>
             <li>
@@ -29,7 +29,7 @@
                 elemento D
             </li>
         </ul>
-        <ol start="5"> 
+        <ol> <start="5">
             <li>
                 elemento 1
             </li>
@@ -39,12 +39,13 @@
             <li>
                 elemento 3
             </li>
+            </start>
         </ol>
         <img src="image/descarga.jpg" width="200px" height="200px" />
         <table border="1">
             <tr>
                 <td>
-                    jnkjn kj
+                    jbdshbbfsd
                 </td>
                 <td>
                     hbfsfbskjdn
@@ -54,38 +55,6 @@
                 </td>
                 <td>
                     ajdjasbdkjabs
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    dbhsbfbsh
-                </td>
-                <td>
-                    dbfsjkdbhf
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    sbhKBSJbh
-                </td>
-                <td>
-                    sjdjsbdjd
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    sjbjasbhjabs
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    sjdhsjdns
-                </td>
-                <td>
-                    jdbjsbdjab
-                </td>
-                <td>
-                    sjnjsndjsdb
                 </td>
             </tr>
         </table>
