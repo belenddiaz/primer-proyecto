@@ -2,6 +2,12 @@
     background-color:skyblue;
     padding:20px;
 }
+ h1:hover{
+     color:aqua;
+ }
+ a:visited{
+     color:antiquewhite;
+ }
 h1{
     margin:20px 0px 20px 15px;
 }
@@ -22,4 +28,7 @@ tr{
    }
    table{
        margin:20px 20px 0px 0px;
+   }
+   ul li{
+       float:left;
    }
